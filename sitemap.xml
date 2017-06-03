@@ -3,12 +3,39 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://kakkoinohito.github.io/post/youkoso-jitsuryoku-bab1-bag3/</loc>
+    <lastmod>2017-06-03T16:11:54+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://kakkoinohito.github.io/post/youkoso-jitsuryoku-bab1-bag2/</loc>
+    <lastmod>2017-06-03T16:11:51+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://kakkoinohito.github.io/post/youkoso-jitsuryoku-bab1-bag1/</loc>
+    <lastmod>2017-06-03T16:11:48+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://kakkoinohito.github.io/post/youkoso-jitsuryoku-prolog/</loc>
+    <lastmod>2017-06-03T16:11:42+08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://kakkoinohito.github.io/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://kakkoinohito.github.io/</loc>
+    <lastmod>2017-06-03T16:11:54+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://kakkoinohito.github.io/post/</loc>
+    <lastmod>2017-06-03T16:11:54+08:00</lastmod>
     <priority>0</priority>
   </url>
   
